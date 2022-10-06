@@ -1,0 +1,39 @@
+#cookie {
+  width: 1500px;
+  height: 800px;
+  display: block;
+  margin: 0px auto;
+  background-color: lightpink;
+}
+
+#counter {
+  font-size: 50px;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(0, 0, 0);
+  border: 3px black solid;
+  border-radius: 2%;
+  width: 500px;
+  display: block;
+  margin: 0 auto;
+  background-color: pink;
+}
+
+#border{
+  border: 5px black solid;
+}
+
+body {
+  background-color: burlywood;
+}
+button{
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 2%;
+  display: block;
+  font-size: 25px;
+  background-color: pink;
+}
+img{
+  border: 5px black solid;
+}
